@@ -28,3 +28,44 @@ It is designed to present my work, achievements, and technical knowledge in a cl
 ---
 
 ## 📂 Project Structure
+
+Portfolio/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+
+
+---
+
+## ⚡ Getting Started
+
+### 1️⃣ Clone the repository
+
+git clone https://github.com/mannamramaiah/Portfolio.git
+
+
+### 2️⃣ Open the project
+Open `index.html` in your browser.
+
+---
+
+## 🎯 Purpose of the Project
+This portfolio is created to:
+- Showcase my technical skills
+- Display my projects
+- Share my achievements
+- Help recruiters know about me
+
+---
+
+## 👤 Author
+**Ramaiah Mannam**
+
+- GitHub: https://github.com/mannamramaiah
+- Portfolio: https://ramportoflio123.vercel.app
+
+---
+
+## ⭐ Support
+If you like this project, please give it a ⭐ on GitHub.
